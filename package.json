@@ -1,0 +1,16 @@
+{
+  "name": "gsap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "gsap": "^3.12.5",
+    "parcel": "^2.12.0"
+  }
+}
